@@ -1,12 +1,10 @@
-# Digital Innovation One
+# Digital Innovation One :rocket:
 
 Código criado para utilização junto a plataforma da Digital Innovation One
 
 Projeto Análise de dados com Python e Pandas
 
-<p align="center"><img src="./DIO.png" width="500"></p>
-
-## Projeto
+## Projeto 
 
 __*Foi criado um Dataset analisando as queimadas entre o período de 2012 a 2019*__
 
